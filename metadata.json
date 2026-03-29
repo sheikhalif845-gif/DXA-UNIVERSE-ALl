@@ -1,0 +1,5 @@
+{
+  "name": "OTP Number Bot",
+  "description": "A Telegram bot for managing and distributing OTP numbers with an admin panel.",
+  "requestFramePermissions": []
+}
